@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "|n/",
+        "nXn",
+        "/n|"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:arrow"
+        },
+        "n": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "|": {
+            "item": "minecraft:echo_shard"
+        },
+        "/": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "id": "crepuscule:crepuscular_arrow",
+        "count": 2
+    }
+}

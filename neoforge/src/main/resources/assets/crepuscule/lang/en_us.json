@@ -1,5 +1,7 @@
 {
-  "itemGroup.crepuscule": "Example Mod Tab",
+  "itemGroup.crepuscule": "The Crepuscule",
   "block.crepuscule.example_block": "Example Block",
-  "item.crepuscule.example_item": "Example Item"
+  "item.crepuscule.example_item": "Example Item",
+  "item.crepuscule.dragon_charge": "Dragon Charge",
+  "item.crepuscule.crepuscular_arrow": "Crepuscular Arrow"
 }
